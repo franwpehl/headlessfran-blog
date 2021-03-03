@@ -16,7 +16,7 @@ function Header({
   // TODO: accept a `menuItems` prop to receive menu items from WordPress.
   const menuItems = [
     { title: 'Home', href: '/' },
-    { title: 'About', href: '/about' },
+    { title: 'Feedback Here!', href: 'https://forms.gle/dfsaccdG1DpTK1vq5' },
     { title: 'Posts', href: '/category/uncategorized' },
     {
       title: 'GitHub',
