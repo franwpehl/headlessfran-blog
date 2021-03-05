@@ -26,10 +26,11 @@ export default function FrontPage(props: any): JSX.Element {
       <main className="content">
         <Hero
           title="Fran's Epic WPE Headless Site"
-          buttonText="Developer Docs"
-          buttonURL="https://developers.wpengine.com/"
+          buttonText="Should I use Headless or Traditional?"
+          buttonURL="https://headlesswp.rocks/decision-tool"
           button2Text="Headless on GitHub"
           button2URL="https://github.com/wpengine/headless-framework"
+          
           bgImage="/images/headless_hero_background.jpg"
           id={styles.home_hero}>
           <p>
