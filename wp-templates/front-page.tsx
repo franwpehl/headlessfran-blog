@@ -25,7 +25,7 @@ export default function FrontPage(props: any): JSX.Element {
       <Header title={settings?.title} description={settings?.description} />
       <main className="content">
         <Hero
-          title="Fran's Epic WPE Headless Site"
+          title="Fran's Epic WPE Headless Site!"
           buttonText="Should I use Headless or Traditional?"
           buttonURL="https://headlesswp.rocks/decision-tool"
           button2Text="Headless on GitHub"
